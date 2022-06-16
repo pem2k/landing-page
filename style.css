@@ -5,7 +5,7 @@
 header{
     width: 100%;
     background-color: red;
-    height: 70px;
+    height: 60px;
     position: fixed;
     top: 0;
     width: 100%;
@@ -75,6 +75,15 @@ p {
     text-align: justify;
 }
 
-label, input {
+footer{
+    width: 100%;
+    background-color: red;
+    height: 50px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
 
+footer p {
+    text-align: center;
 }
