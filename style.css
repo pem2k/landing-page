@@ -1,0 +1,80 @@
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+    width: 100%;
+    background-color: red;
+    height: 70px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+h1 {
+    color:darkslategray;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: red;
+}
+
+body{
+    background-color: green;
+}
+
+main {
+    width: 80%;
+    background-color: deepskyblue;
+    margin: 0 auto 0 auto;
+    padding-top: 5%;
+}
+
+/*link and style image here*/
+img {
+    width: 80%;
+    height: 500px;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+figcaption {
+    text-align: center;
+}
+
+/*setup anchors and style nav bar here*/
+header nav ul li{
+    display: inline;
+    margin: 10px;
+    border-left: 2px solid;
+    border-right: 2px solid;
+    padding: 5px;
+    float: right;
+}
+
+section {
+    margin: 10px ;
+    border: 10px;
+    padding: 10px;
+}
+
+form {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+label {
+    width: 30%;
+    height: 10%;
+}
+
+p {
+    text-align: justify;
+}
+
+label, input {
+
+}
