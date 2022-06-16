@@ -11,6 +11,10 @@ header{
     width: 100%;
 }
 
+.bold{
+    font-weight: bold;
+}
+
 h1 {
     color:darkslategray;
     text-align: center;
@@ -47,7 +51,7 @@ figcaption {
 /*setup anchors and style nav bar here*/
 header nav ul li{
     display: inline;
-    margin: 10px;
+    margin: 15px;
     border-left: 2px solid;
     border-right: 2px solid;
     padding: 5px;
